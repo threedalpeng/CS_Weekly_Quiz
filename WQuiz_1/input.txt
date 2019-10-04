@@ -1,0 +1,17 @@
+abc abc
+abcc ab?
+abcc ab*
+aacccc a*
+aacccc ab*
+adddd ac??*
+abcd  a?d
+abcd  a??d
+abcd  a*d
+abdddc  ab*?
+abddddd ab****d
+axdddab a*d?
+abcde *c??
+abcde *cc?
+abcde a??*e
+abcde a*a*
+
