@@ -14,4 +14,3 @@ abcde *c??
 abcde *cc?
 abcde a??*e
 abcde a*a*
-
